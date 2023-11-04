@@ -1,0 +1,83 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.clear{
+    clear: both;
+}
+
+.containar{
+    width: 75%;
+    margin: auto;
+}
+.navbar{
+    background-color: dimgray;
+    
+}
+
+.logo{
+    float: left;
+}
+.logo img{
+    width: 50%;
+
+}
+
+.navbar .list{
+float: right;
+background-color: dimgray;
+margin-top: 40px;
+
+
+
+
+}
+
+.navbar .list ul{
+    list-style: none;
+    
+}
+
+.navbar .list a{
+    text-decoration: none;
+    color:rgb(3, 54, 148);
+    margin-right: 20px;
+    text-transform: uppercase;
+    font-size: 22px;
+    
+
+}
+
+.navbar .list li{
+    float: left;
+
+
+}
+
+.Our_products{
+    background-color: darkseagreen;
+    text-align: center;
+
+.product{
+    float: left;
+    width: 33.3%;
+    padding-right: 20px ;
+
+
+
+}
+
+}
+
+.Our_products img{
+    width: 100%;
+    height: 600px;
+    display: block;
+
+}
+
+.background{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Fabstract%2Fsamsung-galaxy-book-pro-stock-dark-background-teal-7564.html&psig=AOvVaw0gKNxm-7zjg3i4dv3fqDyw&ust=1699178155799000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKiyyYmKqoIDFQAAAAAdAAAAABAD);
+}
